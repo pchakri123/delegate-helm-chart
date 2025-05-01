@@ -110,7 +110,7 @@ deploymentStrategy: "RollingUpdate"
 #     cpu: 1
 #     memory: 2048Mi
 cpu: 1
-memory: 2048
+memory: 1024
 
 # Script to run before delegate installation
 initScript: ""
